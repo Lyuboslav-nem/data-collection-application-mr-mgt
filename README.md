@@ -28,9 +28,9 @@ README.md
 
 /builds/
 
-mgt-low-poly-data-collection-app.apk        Android Package for the low-poly condition
+mgt-low-poly-data-collection-app.zip          Android Package for the low-poly condition
 
-mgt-realistic-data-collection-app.apk      Android Package for the realistic condition
+mgt-realistic-data-collection-app.zip         Android Package for the realistic condition
 
 
 ## Requirements
