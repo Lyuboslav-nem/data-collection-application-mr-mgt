@@ -25,9 +25,13 @@ Presence Questionnaire (UQO revised version).
 
 ## Repository Contents
 README.md
+
 /builds/
-LowPoly_Build.apk        Android Package for the low-poly condition
-Realistic_Build.apk      Android Package for the realistic condition
+
+mgt-low-poly-data-collection-app.apk        Android Package for the low-poly condition
+
+mgt-realistic-data-collection-app.apk      Android Package for the realistic condition
+
 
 ## Requirements
 
